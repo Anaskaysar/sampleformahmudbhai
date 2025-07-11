@@ -1,3 +1,10 @@
 main:
 
+# --- Mahmudul Hoque's Publications ---
+  - title: "A novel vision transformer-based approach to detect generative model fingerprint"
+    authors: Md. I. S. Emon, M. Hoque, M. R. Hasan, F. Khalifa, M. Rahman
+    conference_short: SPIE
+    conference: Medical Imaging 2025: Imaging Informatics, SPIE
+    pdf: https://doi.org/10.1117/12.3049191
+    notes: In Press
   
